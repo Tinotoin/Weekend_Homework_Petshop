@@ -1,0 +1,11 @@
+Hi guys, I thought I'd add a copy of my statements to GitHub regarding this weekends homework - and the issues I've had.
+
+I'm struggling with transferring my understanding of the concepts into the actual code itself. 
+
+I can identify and understand the different information types, and read, understand and follow the code when it's already written - but I find it difficult to translate the test requirements into the code I need to write. 
+
+So for the first half of the homework, rather than getting disheartened and frustrated, I've written my understanding of what the code should do - instead of the code itself.
+
+Thanks, 
+
+Tino
