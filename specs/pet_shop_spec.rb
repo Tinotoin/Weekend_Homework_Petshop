@@ -141,8 +141,9 @@ class TestPetShop < Minitest::Test
   #   assert_nil(pet)
   # end
 
-  # def find_pet_by_name(pet_shop, pet_name) #this is actual function - NOT TEST
-  #   found_pet = nil #nil would be pet if was found. would be nil otherwise
+  ###ß def find_pet_by_name(pet_shop, pet_name) #this is actual function - NOT TEST
+  ###   found_pet = nil #nil would be pet if was found. would be nil otherwise
+
   #   for pet in pet_shop
   #     if pet[:name] == name
   #       found_pet = pet
