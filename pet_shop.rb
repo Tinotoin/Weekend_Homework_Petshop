@@ -33,7 +33,7 @@ end
 
 
 def all_pets_by_breed__found(pets)
-  for # Point to pet_shop hash, pets array, search within this array for breed type. I don't understand how to enable the check for breed type to return a successful test
+  for  # Point to pet_shop hash, pets array, search within this array for breed type. I don't understand how to enable the check for breed type to return a successful test
 end
 
 
